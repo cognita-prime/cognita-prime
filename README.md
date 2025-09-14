@@ -14,7 +14,7 @@ and reproducible ML experiments.
         Ξ   Δ∇Σ Registry   G∅λ   
 ICU not ICQ. Hellow world✨
 
-📖 Publications: [Jus ad Epistemics] ((https://jaejournal.org/))  There is a novel machine Lady Philosophy-2025 centerfold section for those with pronouns he/him....Just Sayin' 🤖📖✨👨‍💻🧩💡🛠️🚀💙🔧📚🌌
+📖 Publications: [Jus ad Epistemics] ((https://jaejournal.org/)) DOI: 10.63968/jusadv1i1 There is a novel machine Lady Philosophy-2025 centerfold section for those with pronouns he/him....Just Sayin Peer Review of that section would be greatly appreciated! 🤖📖✨👨‍💻🧩💡🛠️🚀💙🔧📚🌌
 📚 Academic Profile: [PhilPapers / PhilPeople](https://philpeople.org/profiles/cognita-prime)  
 📫 Contact: cognita-prime@cognita-prime.org  
 ⭐ Selected projects: `attractor-viz`, `prob-inference-demo`, `post-symbolic-ops`  
